@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "jest": "^29.5.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "name": "test-bdd-tdd-js",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lulu-Soso/test-BDD-TDD-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lulu-Soso/test-BDD-TDD-JS/issues"
+  },
+  "homepage": "https://github.com/Lulu-Soso/test-BDD-TDD-JS#readme"
+}
