@@ -24,3 +24,5 @@ Jest peut être utilisé avec différents types de projets JavaScript, qu'il s'a
 En résumé, Jest est un outil très utile pour les développeurs JavaScript qui souhaitent écrire des tests unitaires robustes et efficaces pour leurs projets.
 
 -> npm install -g jest
+
+-> npm test
